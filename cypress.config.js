@@ -1,5 +1,6 @@
 module.exports = {
   allowCypressEnv: false,
+  projectId: "esbonb",
 
   e2e: {
     setupNodeEvents(on, config) {
